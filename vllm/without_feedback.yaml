@@ -1,0 +1,16 @@
+USE_TWO_SERVERS: "no" ## yes or no
+FEEDBACK_CUDA_DEVICES: 4,5
+FEEDBACK_MODEL_NAME_OR_PATH: /PATH/to/MODEL/CHECKPOINT
+FEEDBACK_PORT: '8002'
+GENERATE_CUDA_DEVICES: 0,1,2,3,4,5,6,7
+GENERATE_MODEL_NAME_OR_PATH: bigcode/octogeex
+GENERATE_PORT: "8001"
+
+TENSOR_PARALLEL_SIZE: "8"
+
+prompt_key: "without_feedback"
+conda_env_name: "lune"
+use_feedback: "No" ## Yes or No
+use_iter: "No" ## Yes or No
+num_iteration: "5"
+seed_json: "No" ## No or path 
