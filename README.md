@@ -8,4 +8,6 @@ For the dataset and the model checkpoints (including the critic and the editor) 
 
 - Dataset: https://huggingface.co/datasets/Anonymous-COFFEE/COFFEE-Dataset
 - Model Checkpoints:
+  - COFFEEPOTS-critic: https://huggingface.co/Anonymous-COFFEE/COFFEEPOTS-critic
+  - COFFEEPOTS-editor: https://huggingface.co/Anonymous-COFFEE/COFFEEPOTS-editor
   
