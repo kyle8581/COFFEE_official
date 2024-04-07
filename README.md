@@ -1,6 +1,6 @@
 This is the official reposotory of Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback.
 
-We propose an open-source model that specialized to code editing task, showing superior performance to ChaGPT (GPT-3.5-Turbo) and even GPT-4 on HumanEvalFix.
+We propose an 💥open-source model that specialized to code editing task, showing superior performance to ChatGPT (GPT-3.5-Turbo) and even GPT-4 on HumanEvalFix.
 
 ![image](framework_overview.png)
 
